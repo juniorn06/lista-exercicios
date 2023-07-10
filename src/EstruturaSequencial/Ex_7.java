@@ -16,7 +16,8 @@ public class Ex_7 {
         int altura = scanner.nextInt();
 
         int area = base * altura;
+        int dobro = area * 2;
 
-        System.out.println("Área do quadrado: " + area);
+        System.out.println("Dobro da área: " + dobro);
     }
 }
